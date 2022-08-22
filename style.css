@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    background-image: url("2k_stars_milky_way.jpg");
+}
+
+#welcome{
+    background-image: url("2k_stars_milky_way.jpg");
+    height: 200px;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    font-size: 25;
+}
+#solar-system1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#family{
+    color: rgb(255, 255, 255);
+}
+#contact{
+    color: white;
+}
+#pic1{
+    width: 1000;
+    height: 700;
+}
+#element_1000 strong{
+    font-size: large;
+}
+.dropdown-menu{
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+
+}
+.links{
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+hr{
+    color: rgb(128, 128, 128);
+}
